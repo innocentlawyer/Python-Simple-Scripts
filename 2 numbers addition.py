@@ -3,8 +3,8 @@ def calculate_sum(num1, num2):
     return num1 + num2
 
 # Input: Get two numbers from the user
-number1 = float(input("Enter the first number: "))
-number2 = float(input("Enter the second number: "))
+number1 = float(input("IBS Computers Requests You To Enter the first number: "))
+number2 = float(input("IBS Computers Requests You To Enter the second number: "))
 
 # Calculate the sum
 sum_result = calculate_sum(number1, number2)
